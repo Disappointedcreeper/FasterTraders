@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Spawns a trader every day at a random player."
+    }
+}
